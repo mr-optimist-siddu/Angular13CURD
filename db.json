@@ -1,0 +1,56 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 60,
+      "Comment": "Fresh fruit",
+      "date": "2022-02-15T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Computer",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 4500,
+      "Comment": "New",
+      "date": "2022-02-16T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Mouse",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 45,
+      "Comment": "mouse",
+      "date": "2022-02-15T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Laptop",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 45675,
+      "Comment": "sidhartha",
+      "date": "2022-02-08T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "grapes",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 20,
+      "Comment": "Fresh",
+      "date": "2022-02-16T18:30:00.000Z",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ]
+}
